@@ -1,0 +1,58 @@
+/* CSS for menu*/
+.menu{
+    border-bottom: 2px solid rgb(39, 168, 0);
+    
+    
+}
+.Menu ul{
+    list-style-type: none;
+    }
+    .Menu ul li{
+        display: inline;
+        padding: 1%;
+    }
+    .text-center{
+
+        text-align: center;
+    }
+    .Menu ul li a{
+        text-decoration: none;
+        font-weight: bold;
+        color: #ffffff;
+    }
+    .Menu ul li a:hover{
+        color: #65d4ff;
+    }
+    .main-content{
+        background-color: #6da6ba;
+        font-size: 1rem;
+        font-weight: 1000;
+        line-height:0.5;
+        
+        
+        padding: 3% 0;
+    }
+    .wrapper{
+        
+        padding: 2%;
+        color:#fbfbfb;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .col-4{
+        width: 18%;
+        background-color: #adcfda;
+        margin: 1%;
+        padding: 2%;
+        float: left;
+    }
+    .clearfix{
+        float: none;
+        clear: both;
+    }
+    /* CSS for Foodter */
+.footer {
+
+    background-color: #9bacc3;
+    
+}
